@@ -1,0 +1,6 @@
+/* %1$@ is a user name. E.g: Stephen's language */
+"test_warning_before_start_title_sean" = "deletion test";
+"test_warning_before_start_title_sean" = "another test";
+"test_warning_before_start_title_sean" = "just one more string";
+"test_warning_before_start_title_sean2" = "one more string please";
+"test_warning_before_start_title_sean3" = "maybe another one";
